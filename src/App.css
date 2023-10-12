@@ -1,0 +1,17 @@
+.container {
+  width: 80%;
+  margin: 50px auto;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+textarea {
+  width: 400px;
+  height: 100px;
+  background: #eee;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.word-count {
+  color: lightgray;
+  font-weight: bold;
+}
